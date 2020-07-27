@@ -22,3 +22,4 @@ You may choose to create your project in the workspace we provide here, or if yo
 
 * When using the default values, `processedRowsPerSecond` is about 30.
 However, when using `maxOffsetPerTrigger` as 5000, `processedRowsPerSecond` is about 40.
+ 
